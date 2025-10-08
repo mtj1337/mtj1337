@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Matěj from 🇨🇿<br><br>- 🔭 I’m student.<br>- 📚 I'm currently learning C++<br>- ⚡ In my free time I do sports a lot.<br>- 📫 You can reach me on my Discord - mtj1337</p>
+<p align="left">I'm Matěj from 🇨🇿<br><br>- 🔭 I’m student.<br>- 📚 I'm currently learning C#<br>- ⚡ In my free time I do sports a lot.<br>- 📫 You can reach me on my Discord - mtj1337</p>
 
 ###
 
