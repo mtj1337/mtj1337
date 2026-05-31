@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=hey%2C+jsem+Mat%C4%9Bj+%F0%9F%91%8B;IT+student+%26+freelance+developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=ahoj%2C+jsem+Mat%C4%9Bj+%F0%9F%91%8B;IT+student+%26+freelance+developer" alt="Typing SVG" />
 </p>
 
 <br>
@@ -43,7 +43,7 @@
 ## Certifikáty
 
 <a href="https://www.credly.com/badges/41e73e2d-1495-40ba-bf93-393175cb2d3a/public_url" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/linkedin_thumb_I2CS__1_.png" width="120" alt="Cisco Introduction to Cybersecurity" title="Cisco Introduction to Cybersecurity" />
+  <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/linkedin_thumb_I2CS__1_.png" width="60" alt="Cisco Introduction to Cybersecurity" title="Cisco Introduction to Cybersecurity" />
 </a>
 
 <br>
