@@ -40,6 +40,14 @@
 
 <br>
 
+## Certifikáty
+
+<a href="https://www.credly.com/badges/41e73e2d-1495-40ba-bf93-393175cb2d3a/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/linkedin_thumb_I2CS__1_.png" width="120" alt="Cisco Introduction to Cybersecurity" title="Cisco Introduction to Cybersecurity" />
+</a>
+
+<br>
+
 ## Stats
 
 <p align="center">
