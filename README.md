@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=ahoj%2C+jsem+Mat%C4%9Bj+%F0%9F%91%8B;IT+student+%26+freelance+developer;cybersecurity+enthusiast+%F0%9F%94%93;ethical+hacker+in+training" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=ahoj%2C+jsem+Matej;IT+student+%26+freelance+developer;cybersecurity+%26+networking" alt="Typing SVG" />
 </p>
 
 <br>
 
 ## O mně
 
-Zajímám se o **webový vývoj** a **kybernetickou bezpečnost**. Rád hledám zranitelnosti, analyzuju sítě a stavím nástroje. Aktuálně se připravuju na **CCNA** a prohlubuju znalosti v oblasti penetračního testování.
+Zajímám se o webový vývoj a kybernetickou bezpečnost. Rád hledám zranitelnosti, analyzuju sítě a stavím nástroje.
 
 <br>
 
