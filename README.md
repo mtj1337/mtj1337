@@ -1,6 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=ahoj%2C+jsem+Mat%C4%9Bj+%F0%9F%91%8B;IT+student+%26+freelance+developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=ahoj%2C+jsem+Mat%C4%9Bj+%F0%9F%91%8B;IT+student+%26+freelance+developer;cybersecurity+enthusiast+%F0%9F%94%93;ethical+hacker+in+training" alt="Typing SVG" />
 </p>
+
+<br>
+
+## O mně
+
+Zajímám se o **webový vývoj** a **kybernetickou bezpečnost**. Rád hledám zranitelnosti, analyzuju sítě a stavím nástroje. Aktuálně se připravuju na **CCNA** a prohlubuju znalosti v oblasti penetračního testování.
 
 <br>
 
@@ -31,6 +37,14 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)
+
+**Security & Networking**
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
 <br>
 
@@ -72,6 +86,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mtj1337&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtj1337&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mtj1337&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 <br>
