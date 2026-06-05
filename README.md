@@ -42,15 +42,28 @@
 
 ## Certifikáty
 
-<a href="https://www.credly.com/badges/41e73e2d-1495-40ba-bf93-393175cb2d3a/public_url" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/linkedin_thumb_I2CS__1_.png" width="60" alt="Cisco Introduction to Cybersecurity" title="Cisco Introduction to Cybersecurity" />
-</a>
-<a href="https://www.credly.com/badges/380ae015-89bf-4f43-8b56-2c5a6611e93f/public_url" target="_blank">
-  <img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="60" alt="Cisco CCNA Introduction to Networks" title="Cisco CCNA Introduction to Networks" />
-</a>
-<a href="https://www.credly.com/badges/e3004170-2daf-40e2-9d92-42c2e51b704c/public_url" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/linkedin_thumb_image.png" width="60" alt="Cisco Ethical Hacker" title="Cisco Ethical Hacker" />
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/41e73e2d-1495-40ba-bf93-393175cb2d3a/public_url" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/linkedin_thumb_I2CS__1_.png" width="80" alt="Cisco Introduction to Cybersecurity" />
+      </a>
+      <br><sub>Introduction to Cybersecurity</sub>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/380ae015-89bf-4f43-8b56-2c5a6611e93f/public_url" target="_blank">
+        <img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="80" alt="Cisco CCNA Introduction to Networks" />
+      </a>
+      <br><sub>CCNA: Introduction to Networks</sub>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/e3004170-2daf-40e2-9d92-42c2e51b704c/public_url" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/linkedin_thumb_image.png" width="80" alt="Cisco Ethical Hacker" />
+      </a>
+      <br><sub>Ethical Hacker</sub>
+    </td>
+  </tr>
+</table>
 
 <br>
 
